@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Quicksell-Assignment/static/css/main.b17e6140.css",
+    "main.js": "/Quicksell-Assignment/static/js/main.6f2bc3b7.js",
+    "static/js/453.d1ead18a.chunk.js": "/Quicksell-Assignment/static/js/453.d1ead18a.chunk.js",
+    "static/media/Display.svg": "/Quicksell-Assignment/static/media/Display.0168095040354204011b596e30abf32e.svg",
+    "static/media/Cancelled.svg": "/Quicksell-Assignment/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/3-dot-menu.svg": "/Quicksell-Assignment/static/media/3-dot-menu.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/No-priority.svg": "/Quicksell-Assignment/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "static/media/Done.svg": "/Quicksell-Assignment/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/down.svg": "/Quicksell-Assignment/static/media/down.b19d146ddbaad572f0f5cebb6dbdf766.svg",
+    "index.html": "/Quicksell-Assignment/index.html",
+    "static/media/Low-Priority.svg": "/Quicksell-Assignment/static/media/Low-Priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/Medium-Priority.svg": "/Quicksell-Assignment/static/media/Medium-Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/High-Priority.svg": "/Quicksell-Assignment/static/media/High-Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/add.svg": "/Quicksell-Assignment/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/in-progress.svg": "/Quicksell-Assignment/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/Urgent-Priority.svg": "/Quicksell-Assignment/static/media/Urgent-Priority.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/Quicksell-Assignment/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/To-do.svg": "/Quicksell-Assignment/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.b17e6140.css.map": "/Quicksell-Assignment/static/css/main.b17e6140.css.map",
+    "main.6f2bc3b7.js.map": "/Quicksell-Assignment/static/js/main.6f2bc3b7.js.map",
+    "453.d1ead18a.chunk.js.map": "/Quicksell-Assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b17e6140.css",
+    "static/js/main.6f2bc3b7.js"
+  ]
+}
